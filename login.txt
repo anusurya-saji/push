@@ -1,2 +1,15 @@
 hello friends...
 it is an example for push a file into github after merge
+
+steps:
+create a file
+add contents
+commit
+change the contents
+commit
+create a branch
+add extra contents and perform commit
+merge
+create repository in github
+push into github
+
